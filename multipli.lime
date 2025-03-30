@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<lim version="5.6.4">
+<lim version="5.6.3">
     <config>
+          <recursos>$C:\Users\anaor\OneDrive\Documentos\edilim\edilim564\edilim564\</recursos>
         <idioma>0</idioma>
         <licencia></licencia>
-        <corfondo>ffffff</corfondo>
+          <corfondo>ffffff</corfondo>
         <corbanda>00BBBB</corbanda>
         <cornavega>00D9D9</cornavega>
         <cormensaxes>000000</cormensaxes>
-        <cortexto>000000</cortexto>
-        <logo>ChatGPT_Image_29_mar_2025,_02_24_37_p.m..png</logo>
-        <informe>0</informe>
-        <botonson>0</botonson>
-        <maximizar>0</maximizar>
+          <cortexto>000000</cortexto>
+        <logo>..\edilim\edilim564\edilim564\ChatGPT Image 29 mar 2025, 02_24_37 p.m..png</logo>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
         <desordenar>0</desordenar>
-        <correcto son="" modo="1" >CORRECTO</correcto>
-        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+        <correcto son="..\edilim\edilim564\edilim564\" modo="1" >CORRECTO</correcto>
+        <incorrecto son="..\edilim\edilim564\edilim564\" modo="1" >INCORRECTO</incorrecto>
     </config>
     <libro>
         <paxina id="1" >
               <tipo>3</tipo>
-              <imaxe>1.png</imaxe>
+              <imaxe>..\edilim\edilim564\edilim564\1.png</imaxe>
               <filas>2</filas>
               <columnas>2</columnas>
               <reixa>0</reixa>
@@ -29,7 +30,7 @@
               <tipo>15</tipo>
               <cfondo>84E1FD</cfondo>
               <ctexto>000000</ctexto>
-              <menu boton="Concepto" imaxe="T_erminos_multipl.PNG"><![CDATA[
+              <menu boton="Concepto" imaxe="..\edilim\edilim564\edilim564\Términos multipl.PNG"><![CDATA[
 <p align="center">
 <font color="#080000" face="Arial" size="14"><b>LA MULTIPLICACIÒN</b><br>
 </font></p>
@@ -45,27 +46,27 @@
         <paxina id="3" >
               <tipo>10</tipo>
             <nonpasar atras="1" >0</nonpasar>
-              <imaxe>6.png</imaxe>
+              <imaxe>..\edilim\edilim564\edilim564\6.png</imaxe>
               <pregunta res="3">¿Cuàntos grupos de tazas de tè hay?</pregunta>
         </paxina>
         <paxina id="4" >
               <tipo>10</tipo>
             <nonpasar atras="1" >0</nonpasar>
-              <imaxe>7.png</imaxe>
+              <imaxe>..\edilim\edilim564\edilim564\7.png</imaxe>
               <pregunta res="3">¿Cuàntos tazas de tè hay en cada grupo?</pregunta>
         </paxina>
         <paxina id="5" >
               <tipo>10</tipo>
             <nonpasar atras="1" >0</nonpasar>
-              <imaxe>9.png</imaxe>
+              <imaxe>..\edilim\edilim564\edilim564\9.png</imaxe>
               <pregunta res="9">¿Cuàntas tazas de tè hay en total?</pregunta>
         </paxina>
         <paxina id="6" >
               <tipo>14</tipo>
             <nonpasar atras="1" >0</nonpasar>
-              <peza imaxe="" texto="3x4" son="">12.png</peza>
-              <peza imaxe="" texto="3x7" son="">21_num.png</peza>
-              <peza imaxe="" texto="3x9" son="">27.png</peza>
+              <peza imaxe="..\edilim\edilim564\edilim564\" texto="3x4" son="..\edilim\edilim564\edilim564\">..\edilim\edilim564\edilim564\12.png</peza>
+              <peza imaxe="..\edilim\edilim564\edilim564\" texto="3x7" son="..\edilim\edilim564\edilim564\">..\edilim\edilim564\edilim564\21 num.png</peza>
+              <peza imaxe="..\edilim\edilim564\edilim564\" texto="3x9" son="..\edilim\edilim564\edilim564\">..\edilim\edilim564\edilim564\27.png</peza>
               <cfondo>84E1FD</cfondo>
         </paxina>
         <paxina id="7" >
@@ -113,11 +114,11 @@
               <tipo>11</tipo>
             <nonpasar atras="1" >0</nonpasar>
               <modo>1</modo>
-              <cousa nome="20">4x5.PNG</cousa>
-              <cousa nome="16">4x4.PNG</cousa>
-              <cousa nome="9">3x3.PNG</cousa>
-              <cousa nome="36">4x9.PNG</cousa>
-              <cousa nome="28">4x7.PNG</cousa>
+              <cousa nome="20">..\edilim\edilim564\edilim564\4x5.PNG</cousa>
+              <cousa nome="16">..\edilim\edilim564\edilim564\4x4.PNG</cousa>
+              <cousa nome="9">..\edilim\edilim564\edilim564\3x3.PNG</cousa>
+              <cousa nome="36">..\edilim\edilim564\edilim564\4x9.PNG</cousa>
+              <cousa nome="28">..\edilim\edilim564\edilim564\4x7.PNG</cousa>
         </paxina>
     </libro>
 </lim>
