@@ -35,12 +35,7 @@
 <font color="#080000" face="Arial" size="14"><b>LA MULTIPLICACIÒN</b><br>
 </font></p>
 ]]></menu>
-              <menu boton="Aprendamos màs"><![CDATA[
-<p align="center">
-<font color="#000000" face="Arial" size="12"><b>LA MULTIPLICACIÒN</b><br>
-<br>
-</font></p>
-]]></menu>
+              <menu boton="Aprendamos màs"><![CDATA[<font size="12"><center><br><iframe width="560" height="315" src="https://www.youtube.com/embed/RZj2JNlJSy0?si=qibeRz7n71SVXytr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br></center></font>]]></menu>
               <chtml>1</chtml>
         </paxina>
         <paxina id="3" >
